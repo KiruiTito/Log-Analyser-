@@ -1,0 +1,4 @@
+#This is thr output report file
+INFO: 2
+WARNING: 1
+ERROR: 2
